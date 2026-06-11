@@ -11,6 +11,7 @@ El sistema permite a los empleados solicitar vacaciones mediante una interaccion
 
 - Validacion de DNI.
 - Validacion de fechas.
+- Control de dias disponibles.
 - Solicitud de vacaciones por consola.
 - Aprobacion o rechazo de solicitudes.
 - Registro de solicitudes en archivo CSV.
